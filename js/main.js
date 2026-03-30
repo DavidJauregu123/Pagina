@@ -35,7 +35,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     'No estas obligada a contestar este mensaje ni nada',
     'Lo que menos quiero es que te sientas incomoda',
     'solo quiero que sepas lo que siento',
-    'pero te haré la pregunta:',
+    'asi que te haré la pregunta:',
     '¿Quieres salir conmigo? :)'
   ];
   
